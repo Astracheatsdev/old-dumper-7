@@ -1,0 +1,336 @@
+﻿  FileWriter.cpp
+E:\Desktop files\need\Dumper-7-main\Dumper\Utils.h(111,38): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int32_t", Datenverlust möglich
+E:\Desktop files\need\Dumper-7-main\Dumper\Utils.h(111,26): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "const int32_t", Datenverlust möglich
+E:\Desktop files\need\Dumper-7-main\Dumper\Utils.h(117,24): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+E:\Desktop files\need\Dumper-7-main\Dumper\Utils.h(120,25): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+E:\Desktop files\need\Dumper-7-main\Dumper\UnrealTypes.h(88,31): warning C4267: "=": Konvertierung von "size_t" nach "int32", Datenverlust möglich
+E:\Desktop files\need\Dumper-7-main\Dumper\UnrealTypes.h(139,60): warning C4244: "=": Konvertierung von "uintptr_t" in "int32", möglicher Datenverlust
+E:\Desktop files\need\Dumper-7-main\Dumper\Utils.h(218,20): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+E:\Desktop files\need\Dumper-7-main\Dumper\Utils.h(261,9): message : Siehe Verweis auf die gerade kompilierte Instanziierung "MemAddress FindByString<const wchar_t*>(Type)" der Funktions-Vorlage.
+          with
+          [
+              Type=const wchar_t *
+          ]
+E:\Desktop files\need\Dumper-7-main\Dumper\Utils.h(240,20): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xstring(2728,53): warning C4244: "Argument": Konvertierung von "wchar_t" in "const _Elem", möglicher Datenverlust
+          with
+          [
+              _Elem=char
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xstring(2584,17): message : Siehe Verweis auf die gerade kompilierte Instanziierung "void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*,wchar_t*,_Size_type>(_Iter,const _Sent,_Size)" der Funktions-Vorlage.
+          with
+          [
+              _Size_type=unsigned __int64,
+              _Iter=wchar_t *,
+              _Sent=wchar_t *,
+              _Size=unsigned __int64
+          ]
+E:\Desktop files\need\Dumper-7-main\Dumper\UnrealTypes.h(114,22): message : Siehe Verweis auf die gerade kompilierte Instanziierung "std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)" der Funktions-Vorlage.
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+E:\Desktop files\need\Dumper-7-main\Dumper\UnrealTypes.h(114,4): message : Ersten Verweis auf "std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string" in "FString::ToString" anzeigen
+  Generator.cpp
+E:\Desktop files\need\Dumper-7-main\Dumper\Utils.h(111,38): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int32_t", Datenverlust möglich
+E:\Desktop files\need\Dumper-7-main\Dumper\Utils.h(111,26): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "const int32_t", Datenverlust möglich
+E:\Desktop files\need\Dumper-7-main\Dumper\Utils.h(117,24): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+E:\Desktop files\need\Dumper-7-main\Dumper\Utils.h(120,25): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+E:\Desktop files\need\Dumper-7-main\Dumper\UnrealTypes.h(88,31): warning C4267: "=": Konvertierung von "size_t" nach "int32", Datenverlust möglich
+E:\Desktop files\need\Dumper-7-main\Dumper\UnrealTypes.h(139,60): warning C4244: "=": Konvertierung von "uintptr_t" in "int32", möglicher Datenverlust
+E:\Desktop files\need\Dumper-7-main\Dumper\Utils.h(218,20): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+E:\Desktop files\need\Dumper-7-main\Dumper\Utils.h(261,9): message : Siehe Verweis auf die gerade kompilierte Instanziierung "MemAddress FindByString<const wchar_t*>(Type)" der Funktions-Vorlage.
+          with
+          [
+              Type=const wchar_t *
+          ]
+E:\Desktop files\need\Dumper-7-main\Dumper\Utils.h(240,20): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xstring(2728,53): warning C4244: "Argument": Konvertierung von "wchar_t" in "const _Elem", möglicher Datenverlust
+          with
+          [
+              _Elem=char
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xstring(2584,17): message : Siehe Verweis auf die gerade kompilierte Instanziierung "void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*,wchar_t*,_Size_type>(_Iter,const _Sent,_Size)" der Funktions-Vorlage.
+          with
+          [
+              _Size_type=unsigned __int64,
+              _Iter=wchar_t *,
+              _Sent=wchar_t *,
+              _Size=unsigned __int64
+          ]
+E:\Desktop files\need\Dumper-7-main\Dumper\UnrealTypes.h(114,22): message : Siehe Verweis auf die gerade kompilierte Instanziierung "std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)" der Funktions-Vorlage.
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+E:\Desktop files\need\Dumper-7-main\Dumper\UnrealTypes.h(114,4): message : Ersten Verweis auf "std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string" in "FString::ToString" anzeigen
+  Main.cpp
+E:\Desktop files\need\Dumper-7-main\Dumper\Utils.h(111,38): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int32_t", Datenverlust möglich
+E:\Desktop files\need\Dumper-7-main\Dumper\Utils.h(111,26): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "const int32_t", Datenverlust möglich
+E:\Desktop files\need\Dumper-7-main\Dumper\Utils.h(117,24): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+E:\Desktop files\need\Dumper-7-main\Dumper\Utils.h(120,25): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+E:\Desktop files\need\Dumper-7-main\Dumper\UnrealTypes.h(88,31): warning C4267: "=": Konvertierung von "size_t" nach "int32", Datenverlust möglich
+E:\Desktop files\need\Dumper-7-main\Dumper\UnrealTypes.h(139,60): warning C4244: "=": Konvertierung von "uintptr_t" in "int32", möglicher Datenverlust
+E:\Desktop files\need\Dumper-7-main\Dumper\UnrealObjects.h(76,9): warning C4359: "TPair<FName,int64>": Der Ausrichtungsspezifizierer ist kleiner als die tatsächliche Ausrichtung (8) und wird ignoriert.
+E:\Desktop files\need\Dumper-7-main\Dumper\OffsetFinder.h(48,14): message : Siehe Verweis auf die gerade kompilierte Klasse Vorlage-Instanziierung "TPair<FName,int64>".
+E:\Desktop files\need\Dumper-7-main\Dumper\Utils.h(218,20): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+E:\Desktop files\need\Dumper-7-main\Dumper\Utils.h(261,9): message : Siehe Verweis auf die gerade kompilierte Instanziierung "MemAddress FindByString<const wchar_t*>(Type)" der Funktions-Vorlage.
+          with
+          [
+              Type=const wchar_t *
+          ]
+E:\Desktop files\need\Dumper-7-main\Dumper\Utils.h(240,20): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xstring(2728,53): warning C4244: "Argument": Konvertierung von "wchar_t" in "const _Elem", möglicher Datenverlust
+          with
+          [
+              _Elem=char
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xstring(2584,17): message : Siehe Verweis auf die gerade kompilierte Instanziierung "void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*,wchar_t*,_Size_type>(_Iter,const _Sent,_Size)" der Funktions-Vorlage.
+          with
+          [
+              _Size_type=unsigned __int64,
+              _Iter=wchar_t *,
+              _Sent=wchar_t *,
+              _Size=unsigned __int64
+          ]
+E:\Desktop files\need\Dumper-7-main\Dumper\UnrealTypes.h(114,22): message : Siehe Verweis auf die gerade kompilierte Instanziierung "std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)" der Funktions-Vorlage.
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+E:\Desktop files\need\Dumper-7-main\Dumper\UnrealTypes.h(114,4): message : Ersten Verweis auf "std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string" in "FString::ToString" anzeigen
+  ObjectArray.cpp
+E:\Desktop files\need\Dumper-7-main\Dumper\Utils.h(111,38): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int32_t", Datenverlust möglich
+E:\Desktop files\need\Dumper-7-main\Dumper\Utils.h(111,26): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "const int32_t", Datenverlust möglich
+E:\Desktop files\need\Dumper-7-main\Dumper\Utils.h(117,24): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+E:\Desktop files\need\Dumper-7-main\Dumper\Utils.h(120,25): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+E:\Desktop files\need\Dumper-7-main\Dumper\UnrealTypes.h(88,31): warning C4267: "=": Konvertierung von "size_t" nach "int32", Datenverlust möglich
+E:\Desktop files\need\Dumper-7-main\Dumper\UnrealTypes.h(139,60): warning C4244: "=": Konvertierung von "uintptr_t" in "int32", möglicher Datenverlust
+E:\Desktop files\need\Dumper-7-main\Dumper\ObjectArray.cpp(113,20): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+E:\Desktop files\need\Dumper-7-main\Dumper\ObjectArray.cpp(124,54): warning C4244: "=": Konvertierung von "uintptr_t" in "int32", möglicher Datenverlust
+E:\Desktop files\need\Dumper-7-main\Dumper\ObjectArray.cpp(154,54): warning C4244: "=": Konvertierung von "uintptr_t" in "int32", möglicher Datenverlust
+E:\Desktop files\need\Dumper-7-main\Dumper\ObjectArray.cpp(253,24): warning C4312: "Typumwandlung": Konvertierung von "int32" in größeren Typ "void *"
+E:\Desktop files\need\Dumper-7-main\Dumper\ObjectArray.cpp(299,24): warning C4018: ">": Konflikt zwischen "signed" und "unsigned"
+E:\Desktop files\need\Dumper-7-main\Dumper\Utils.h(218,20): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+E:\Desktop files\need\Dumper-7-main\Dumper\Utils.h(261,9): message : Siehe Verweis auf die gerade kompilierte Instanziierung "MemAddress FindByString<const wchar_t*>(Type)" der Funktions-Vorlage.
+          with
+          [
+              Type=const wchar_t *
+          ]
+E:\Desktop files\need\Dumper-7-main\Dumper\Utils.h(240,20): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xstring(2728,53): warning C4244: "Argument": Konvertierung von "wchar_t" in "const _Elem", möglicher Datenverlust
+          with
+          [
+              _Elem=char
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xstring(2584,17): message : Siehe Verweis auf die gerade kompilierte Instanziierung "void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*,wchar_t*,_Size_type>(_Iter,const _Sent,_Size)" der Funktions-Vorlage.
+          with
+          [
+              _Size_type=unsigned __int64,
+              _Iter=wchar_t *,
+              _Sent=wchar_t *,
+              _Size=unsigned __int64
+          ]
+E:\Desktop files\need\Dumper-7-main\Dumper\UnrealTypes.h(114,22): message : Siehe Verweis auf die gerade kompilierte Instanziierung "std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)" der Funktions-Vorlage.
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+E:\Desktop files\need\Dumper-7-main\Dumper\UnrealTypes.h(114,4): message : Ersten Verweis auf "std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string" in "FString::ToString" anzeigen
+  Offsets.cpp
+E:\Desktop files\need\Dumper-7-main\Dumper\Utils.h(111,38): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int32_t", Datenverlust möglich
+E:\Desktop files\need\Dumper-7-main\Dumper\Utils.h(111,26): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "const int32_t", Datenverlust möglich
+E:\Desktop files\need\Dumper-7-main\Dumper\Utils.h(117,24): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+E:\Desktop files\need\Dumper-7-main\Dumper\Utils.h(120,25): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+E:\Desktop files\need\Dumper-7-main\Dumper\UnrealTypes.h(88,31): warning C4267: "=": Konvertierung von "size_t" nach "int32", Datenverlust möglich
+E:\Desktop files\need\Dumper-7-main\Dumper\UnrealTypes.h(139,60): warning C4244: "=": Konvertierung von "uintptr_t" in "int32", möglicher Datenverlust
+E:\Desktop files\need\Dumper-7-main\Dumper\UnrealObjects.h(76,9): warning C4359: "TPair<FName,int64>": Der Ausrichtungsspezifizierer ist kleiner als die tatsächliche Ausrichtung (8) und wird ignoriert.
+E:\Desktop files\need\Dumper-7-main\Dumper\OffsetFinder.h(48,14): message : Siehe Verweis auf die gerade kompilierte Klasse Vorlage-Instanziierung "TPair<FName,int64>".
+E:\Desktop files\need\Dumper-7-main\Dumper\Offsets.cpp(11,43): warning C4244: "=": Konvertierung von "uintptr_t" in "int32", möglicher Datenverlust
+E:\Desktop files\need\Dumper-7-main\Dumper\Offsets.cpp(30,61): warning C4244: "=": Konvertierung von "uintptr_t" in "int32", möglicher Datenverlust
+E:\Desktop files\need\Dumper-7-main\Dumper\Utils.h(218,20): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+E:\Desktop files\need\Dumper-7-main\Dumper\Utils.h(261,9): message : Siehe Verweis auf die gerade kompilierte Instanziierung "MemAddress FindByString<const wchar_t*>(Type)" der Funktions-Vorlage.
+          with
+          [
+              Type=const wchar_t *
+          ]
+E:\Desktop files\need\Dumper-7-main\Dumper\Utils.h(240,20): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xstring(2728,53): warning C4244: "Argument": Konvertierung von "wchar_t" in "const _Elem", möglicher Datenverlust
+          with
+          [
+              _Elem=char
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xstring(2584,17): message : Siehe Verweis auf die gerade kompilierte Instanziierung "void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*,wchar_t*,_Size_type>(_Iter,const _Sent,_Size)" der Funktions-Vorlage.
+          with
+          [
+              _Size_type=unsigned __int64,
+              _Iter=wchar_t *,
+              _Sent=wchar_t *,
+              _Size=unsigned __int64
+          ]
+E:\Desktop files\need\Dumper-7-main\Dumper\UnrealTypes.h(114,22): message : Siehe Verweis auf die gerade kompilierte Instanziierung "std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)" der Funktions-Vorlage.
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+E:\Desktop files\need\Dumper-7-main\Dumper\UnrealTypes.h(114,4): message : Ersten Verweis auf "std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string" in "FString::ToString" anzeigen
+  Package.cpp
+E:\Desktop files\need\Dumper-7-main\Dumper\Utils.h(111,38): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int32_t", Datenverlust möglich
+E:\Desktop files\need\Dumper-7-main\Dumper\Utils.h(111,26): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "const int32_t", Datenverlust möglich
+E:\Desktop files\need\Dumper-7-main\Dumper\Utils.h(117,24): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+E:\Desktop files\need\Dumper-7-main\Dumper\Utils.h(120,25): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+E:\Desktop files\need\Dumper-7-main\Dumper\UnrealTypes.h(88,31): warning C4267: "=": Konvertierung von "size_t" nach "int32", Datenverlust möglich
+E:\Desktop files\need\Dumper-7-main\Dumper\UnrealTypes.h(139,60): warning C4244: "=": Konvertierung von "uintptr_t" in "int32", möglicher Datenverlust
+E:\Desktop files\need\Dumper-7-main\Dumper\Package.cpp(240,23): warning C4018: ">": Konflikt zwischen "signed" und "unsigned"
+E:\Desktop files\need\Dumper-7-main\Dumper\UnrealObjects.h(76,9): warning C4359: "TPair<FName,int64>": Der Ausrichtungsspezifizierer ist kleiner als die tatsächliche Ausrichtung (8) und wird ignoriert.
+E:\Desktop files\need\Dumper-7-main\Dumper\Package.cpp(599,44): message : Siehe Verweis auf die gerade kompilierte Klasse Vorlage-Instanziierung "TPair<FName,int64>".
+E:\Desktop files\need\Dumper-7-main\Dumper\Utils.h(218,20): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+E:\Desktop files\need\Dumper-7-main\Dumper\Utils.h(261,9): message : Siehe Verweis auf die gerade kompilierte Instanziierung "MemAddress FindByString<const wchar_t*>(Type)" der Funktions-Vorlage.
+          with
+          [
+              Type=const wchar_t *
+          ]
+E:\Desktop files\need\Dumper-7-main\Dumper\Utils.h(240,20): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xstring(2728,53): warning C4244: "Argument": Konvertierung von "wchar_t" in "const _Elem", möglicher Datenverlust
+          with
+          [
+              _Elem=char
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xstring(2584,17): message : Siehe Verweis auf die gerade kompilierte Instanziierung "void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*,wchar_t*,_Size_type>(_Iter,const _Sent,_Size)" der Funktions-Vorlage.
+          with
+          [
+              _Size_type=unsigned __int64,
+              _Iter=wchar_t *,
+              _Sent=wchar_t *,
+              _Size=unsigned __int64
+          ]
+E:\Desktop files\need\Dumper-7-main\Dumper\UnrealTypes.h(114,22): message : Siehe Verweis auf die gerade kompilierte Instanziierung "std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)" der Funktions-Vorlage.
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+E:\Desktop files\need\Dumper-7-main\Dumper\UnrealTypes.h(114,4): message : Ersten Verweis auf "std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string" in "FString::ToString" anzeigen
+  Types.cpp
+E:\Desktop files\need\Dumper-7-main\Dumper\Utils.h(111,38): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int32_t", Datenverlust möglich
+E:\Desktop files\need\Dumper-7-main\Dumper\Utils.h(111,26): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "const int32_t", Datenverlust möglich
+E:\Desktop files\need\Dumper-7-main\Dumper\Utils.h(117,24): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+E:\Desktop files\need\Dumper-7-main\Dumper\Utils.h(120,25): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+E:\Desktop files\need\Dumper-7-main\Dumper\UnrealTypes.h(88,31): warning C4267: "=": Konvertierung von "size_t" nach "int32", Datenverlust möglich
+E:\Desktop files\need\Dumper-7-main\Dumper\UnrealTypes.h(139,60): warning C4244: "=": Konvertierung von "uintptr_t" in "int32", möglicher Datenverlust
+E:\Desktop files\need\Dumper-7-main\Dumper\Utils.h(218,20): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+E:\Desktop files\need\Dumper-7-main\Dumper\Utils.h(261,9): message : Siehe Verweis auf die gerade kompilierte Instanziierung "MemAddress FindByString<const wchar_t*>(Type)" der Funktions-Vorlage.
+          with
+          [
+              Type=const wchar_t *
+          ]
+E:\Desktop files\need\Dumper-7-main\Dumper\Utils.h(240,20): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xstring(2728,53): warning C4244: "Argument": Konvertierung von "wchar_t" in "const _Elem", möglicher Datenverlust
+          with
+          [
+              _Elem=char
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xstring(2584,17): message : Siehe Verweis auf die gerade kompilierte Instanziierung "void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*,wchar_t*,_Size_type>(_Iter,const _Sent,_Size)" der Funktions-Vorlage.
+          with
+          [
+              _Size_type=unsigned __int64,
+              _Iter=wchar_t *,
+              _Sent=wchar_t *,
+              _Size=unsigned __int64
+          ]
+E:\Desktop files\need\Dumper-7-main\Dumper\UnrealTypes.h(114,22): message : Siehe Verweis auf die gerade kompilierte Instanziierung "std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)" der Funktions-Vorlage.
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+E:\Desktop files\need\Dumper-7-main\Dumper\UnrealTypes.h(114,4): message : Ersten Verweis auf "std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string" in "FString::ToString" anzeigen
+  UnrealObjects.cpp
+E:\Desktop files\need\Dumper-7-main\Dumper\Utils.h(111,38): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int32_t", Datenverlust möglich
+E:\Desktop files\need\Dumper-7-main\Dumper\Utils.h(111,26): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "const int32_t", Datenverlust möglich
+E:\Desktop files\need\Dumper-7-main\Dumper\Utils.h(117,24): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+E:\Desktop files\need\Dumper-7-main\Dumper\Utils.h(120,25): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+E:\Desktop files\need\Dumper-7-main\Dumper\UnrealTypes.h(88,31): warning C4267: "=": Konvertierung von "size_t" nach "int32", Datenverlust möglich
+E:\Desktop files\need\Dumper-7-main\Dumper\UnrealTypes.h(139,60): warning C4244: "=": Konvertierung von "uintptr_t" in "int32", möglicher Datenverlust
+E:\Desktop files\need\Dumper-7-main\Dumper\UnrealObjects.h(76,9): warning C4359: "TPair<FName,int64>": Der Ausrichtungsspezifizierer ist kleiner als die tatsächliche Ausrichtung (8) und wird ignoriert.
+E:\Desktop files\need\Dumper-7-main\Dumper\UnrealObjects.cpp(189,34): message : Siehe Verweis auf die gerade kompilierte Klasse Vorlage-Instanziierung "TPair<FName,int64>".
+E:\Desktop files\need\Dumper-7-main\Dumper\Utils.h(218,20): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+E:\Desktop files\need\Dumper-7-main\Dumper\Utils.h(261,9): message : Siehe Verweis auf die gerade kompilierte Instanziierung "MemAddress FindByString<const wchar_t*>(Type)" der Funktions-Vorlage.
+          with
+          [
+              Type=const wchar_t *
+          ]
+E:\Desktop files\need\Dumper-7-main\Dumper\Utils.h(240,20): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xstring(2728,53): warning C4244: "Argument": Konvertierung von "wchar_t" in "const _Elem", möglicher Datenverlust
+          with
+          [
+              _Elem=char
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xstring(2584,17): message : Siehe Verweis auf die gerade kompilierte Instanziierung "void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*,wchar_t*,_Size_type>(_Iter,const _Sent,_Size)" der Funktions-Vorlage.
+          with
+          [
+              _Size_type=unsigned __int64,
+              _Iter=wchar_t *,
+              _Sent=wchar_t *,
+              _Size=unsigned __int64
+          ]
+E:\Desktop files\need\Dumper-7-main\Dumper\UnrealTypes.h(114,22): message : Siehe Verweis auf die gerade kompilierte Instanziierung "std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)" der Funktions-Vorlage.
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+E:\Desktop files\need\Dumper-7-main\Dumper\UnrealTypes.h(114,4): message : Ersten Verweis auf "std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string" in "FString::ToString" anzeigen
+  UnrealTypes.cpp
+E:\Desktop files\need\Dumper-7-main\Dumper\Utils.h(111,38): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int32_t", Datenverlust möglich
+E:\Desktop files\need\Dumper-7-main\Dumper\Utils.h(111,26): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "const int32_t", Datenverlust möglich
+E:\Desktop files\need\Dumper-7-main\Dumper\Utils.h(117,24): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+E:\Desktop files\need\Dumper-7-main\Dumper\Utils.h(120,25): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+E:\Desktop files\need\Dumper-7-main\Dumper\UnrealTypes.h(88,31): warning C4267: "=": Konvertierung von "size_t" nach "int32", Datenverlust möglich
+E:\Desktop files\need\Dumper-7-main\Dumper\UnrealTypes.h(139,60): warning C4244: "=": Konvertierung von "uintptr_t" in "int32", möglicher Datenverlust
+E:\Desktop files\need\Dumper-7-main\Dumper\Utils.h(218,20): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+E:\Desktop files\need\Dumper-7-main\Dumper\Utils.h(261,9): message : Siehe Verweis auf die gerade kompilierte Instanziierung "MemAddress FindByString<const wchar_t*>(Type)" der Funktions-Vorlage.
+          with
+          [
+              Type=const wchar_t *
+          ]
+E:\Desktop files\need\Dumper-7-main\Dumper\Utils.h(240,20): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xstring(2728,53): warning C4244: "Argument": Konvertierung von "wchar_t" in "const _Elem", möglicher Datenverlust
+          with
+          [
+              _Elem=char
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xstring(2584,17): message : Siehe Verweis auf die gerade kompilierte Instanziierung "void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*,wchar_t*,_Size_type>(_Iter,const _Sent,_Size)" der Funktions-Vorlage.
+          with
+          [
+              _Size_type=unsigned __int64,
+              _Iter=wchar_t *,
+              _Sent=wchar_t *,
+              _Size=unsigned __int64
+          ]
+E:\Desktop files\need\Dumper-7-main\Dumper\UnrealTypes.h(114,22): message : Siehe Verweis auf die gerade kompilierte Instanziierung "std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)" der Funktions-Vorlage.
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+E:\Desktop files\need\Dumper-7-main\Dumper\UnrealTypes.h(114,4): message : Ersten Verweis auf "std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string" in "FString::ToString" anzeigen
+  Code wird generiert.
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 4043 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Codegenerierung ist abgeschlossen.
+  Dumper.vcxproj -> E:\Desktop files\need\Dumper-7-main\x64\Release\Dumper-7.dll
